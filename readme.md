@@ -1,5 +1,7 @@
 # PoorbugCommenter
 
+给博客(Hexo)无痛加入留言板功能。
+
 Powered by [LeanCloud](https://leancloud.cn/)
 
 
